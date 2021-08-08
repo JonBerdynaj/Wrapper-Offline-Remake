@@ -1,0 +1,30 @@
+﻿Hello And Welcome to Wrapper Offline Remake Verision 1.2.7 in here you can see the Legacy Video Maker! now i gonna ask you some question
+
+Q: how do i use this
+
+A: So do use this it will requied Adobe flash player you can download it from in the link on other goanimators vidoes or you just run as admin and wait for
+20 seconds
+
+Q: Does it have business Friendly and Whiteboard animation and other business themes!
+
+A: Yes it haves business themes and other business themes
+
+Q: Does Text to speech voices works
+
+A: Yes TTS Voices Will Work Forever
+
+Q: Will it work forever? Even after Flash is retired?
+
+A: Yes It should, that's the goal. Perhaps in the future when we all run 6000-bit machines implanted into our brains it won't be compatible with that anymore, but I'm sure there'll always be a way to run it. There is also futureproofing for Flash's discontinuation, since Offline includes a Flash install and a version of ungoogled-chromium that supports Flash. By default, it starts from this, but you can change that in settings.bat. The included Chrome should not be used for browsing beyond using Flash content. You can also look into projects like [Lightspark](http://lightspark.github.io/) and [ruffle](https://ruffle.rs/) that are attempting to recreate Flash.
+
+Q: Can i use this on offline wile my network cable is unplugged
+
+A: Yes you can use wrapper offline in offline without internet connection but tts voices requies Internet Connection
+
+Q: Tell Vyond
+
+A: DON'T YOU FUCKING DARE!!!!!!!!!!!!
+
+Q: its LVM HERE
+
+A: Yes its here
